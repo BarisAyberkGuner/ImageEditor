@@ -1,0 +1,36 @@
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ayberk\Downloads\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sarp\Desktop\WindowsFormsApp1-20171014T175351Z-001\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Sarp\Desktop\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Users\Ayberk\Desktop\Ders Notları\Yazlab1.1\150202001_150202054\WindowsFormsApp1-Babaco\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
